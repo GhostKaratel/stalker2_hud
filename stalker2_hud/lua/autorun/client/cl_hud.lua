@@ -28,7 +28,7 @@ local MaterialRadiation = Material('ui/radiation.png')
 local MaterialAmmoBG = Material('ui/weapon.png')
 
 local ColorWhite = Color(150,150,150)
-
+-- ТЕСТ
 local NotAmmo = {
 	['weapon_keypadchecker'] = true, 
 	['weapon_stunstick'] = true, 
